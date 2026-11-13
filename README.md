@@ -22,3 +22,5 @@ Se passa no periodo da conjuração bahiana onde você é um jovem negro que que
 Nome(Opcional): 
 
 Paleta de cores(identidade visual): Laranja, Azul e Branco. Laranja por conta da epoca de 1700. Azul e branco por serem cores muito ligadas a Bahia.
+
+Mapa de Referencias: https://canva.link/2js5vhz48aqegv9
